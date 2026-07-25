@@ -2265,7 +2265,7 @@ body{
 /* ---------- Hero ---------- */
 
 .hero{
-    background-image: url(./999.png);
+    background-image: url(999.png);
     background-repeat: no-repeat;
     background-size: 100%;
     overflow:hidden;
