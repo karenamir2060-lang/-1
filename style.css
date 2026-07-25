@@ -2118,7 +2118,7 @@ body{
    Hero Mobile (360px)
    ========================= */
 
-@media (max-width: 400px){
+@media (max-width: 410px){
 
 
 .header{
@@ -3274,7 +3274,7 @@ body{
    360px - Horizontal Scroll
 ========================================================= */
 
-@media (max-width: 400px) {
+@media (max-width: 410px) {
 
     .popular-categories {
 
